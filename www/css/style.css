@@ -1,0 +1,17 @@
+#menu { 
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 70;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    letter-spacing: 1px;
+    font-size: 1.1em;
+}
+#menu ul {
+  list-style: none;
+}
+
+#menu li {
+  display: inline-block;
+}
